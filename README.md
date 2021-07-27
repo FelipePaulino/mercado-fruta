@@ -19,6 +19,5 @@ yarn dev
 * [React](https://reactjs.org/) - Library for building interfaces
 * [Styled-Components](https://styled-components.com/) - styled-components is the result of wondering how we could enhance CSS for styling React component systems.
 
-
  ## Sign In
  To login use the email: teste@teste.com.br and password: 123456
